@@ -1,33 +1,31 @@
 {
-    "tasksData": 
-	[
-	    {
-		    "name": "Stereo",
+    "tasksData": [
+        {
+            "name": "Stereo",
             "localizedName": "Stereo pictures",
             "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 2,
             "Levels": [
-			{
-		   "number": 1,
-		   "rightAnswer": "AIRCRAFT",
-		   "imageText": "",
-		   "imageDescription": "",
-		   "wrongAnswers": [],
-		   
-		   "cost": 0
-		   },
-
-		   {
-		   "number": 2,
-		   "rightAnswer": "ALLIGATOR",
-		   "imageText": "",
-		   "imageDescription": "",
-		   "wrongAnswers": [],
-		   
-		   "cost": 0
-		   }
-           ]
+                {
+                    "number": 1,
+                    "rightAnswer": "AIRCRAFT",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "ALLIGATOR",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 0
+                }
+            ]
         }
     ],
     "gameItems": [
@@ -222,9 +220,8 @@
         {
             "key": 47,
             "value": "Retry"
-        }
-		,
- 	    {
+        },
+        {
             "key": 48,
             "value": "PRIVACY"
         }
