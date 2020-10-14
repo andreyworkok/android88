@@ -2,15 +2,15 @@
     "tasksData": 
 	[
 	    {
-		    "name": "Stereo",
-            "localizedName": "Stereo pictures",
+		"name": "Stereo",
+            "localizedName": "Стерео картинки",
             "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 2,
             "Levels": [
 			{
 		   "number": 1,
-		   "rightAnswer": "AIRCRAFT",
+		   "rightAnswer": "ОДИН",
 		   "imageText": "",
 		   "imageDescription": "",
 		   "wrongAnswers": [],
@@ -20,7 +20,7 @@
 
 		   {
 		   "number": 2,
-		   "rightAnswer": "ALLIGATOR",
+		   "rightAnswer": "ДВА",
 		   "imageText": "",
 		   "imageDescription": "",
 		   "wrongAnswers": [],
@@ -33,195 +33,199 @@
     "gameItems": [
         {
             "key": 0,
-            "value": "play"
+            "value": "игра"
         },
         {
             "key": 1,
-            "value": "info"
+            "value": "инфо"
         },
         {
             "key": 2,
-            "value": "quit"
+            "value": "выйти"
         },
         {
             "key": 3,
-            "value": "back"
+            "value": "назад"
         },
         {
             "key": 4,
-            "value": "Wikigames\nTry to quess what is on the picture!\nGet stucked? Spend your coins for hints!\nEarn coins by completing tasks or by watching short AD!\nHave fun!"
+            "value": "ВикИИгры\nПопробуй угадать картинку!\nЗастряли? Потратьте свои монеты на подсказки!\nЗарабатывайте монеты, выполняя задания или смотрите которкую рекламу!\nВеселитесь!"
         },
         {
             "key": 5,
-            "value": "locked"
+            "value": "заблокировано"
         },
         {
             "key": 6,
-            "value": "Reveal a letter"
+            "value": "Показать букву"
         },
         {
             "key": 7,
-            "value": "Remove letters"
+            "value": "Удалить букву"
         },
         {
             "key": 8,
-            "value": "Get an answer"
+            "value": "Получить ответ"
         },
         {
             "key": 9,
-            "value": "Get coins"
+            "value": "Получить монеты"
         },
         {
             "key": 10,
-            "value": "Watch AD"
+            "value": "Смотреть AD"
         },
         {
             "key": 11,
-            "value": "Buy for real money"
+            "value": "Купить за реальные деньги"
         },
         {
             "key": 12,
-            "value": "continue"
+            "value": "продолжить"
         },
         {
             "key": 13,
-            "value": "main menu"
+            "value": "главное меню"
         },
         {
             "key": 14,
-            "value": "Level complete!"
+            "value": "Уровень пройден!"
         },
         {
             "key": 15,
-            "value": "If you liked the game, please rate it on Google Play!"
+            "value": "Если вам нравится игра, пожалуйста оцените в Google Play!"
         },
         {
             "key": 16,
-            "value": "rate"
+            "value": "Оценить"
         },
         {
             "key": 17,
-            "value": "never"
+            "value": "никогда не показывать"
         },
         {
             "key": 18,
-            "value": "later"
+            "value": "буквы"
         },
         {
             "key": 19,
-            "value": "Data collection consent"
+            "value": "Согласие на сбор данных"
         },
         {
             "key": 20,
-            "value": "Personalized advertisements"
+            "value": "Персонализированная реклама"
         },
         {
             "key": 21,
-            "value": "Allow AD networks too use collected data and show personalized advertisements"
+            "value": "Разрешить сетям AD также использовать собранные данные и показывать персонализированные рекламные объявления"
         },
         {
             "key": 22,
-            "value": "yes"
+            "value": "да"
         },
         {
             "key": 23,
-            "value": "no"
+            "value": "нет"
         },
         {
             "key": 24,
-            "value": "Looks like you have better progress!"
+            "value": "Похоже, вы добились большего прогресса!"
         },
         {
             "key": 25,
-            "value": "Do you want to load it?"
+            "value": "Вы хотите загрузить его?"
         },
         {
             "key": 26,
-            "value": "Hello there! Just to let you know, we use your gameplay and device data with your consent to improve our game!"
+            "value": "Привет! Просто чтобы сообщить, мы используем ваш игровой процесс и данные устройства с вашего согласия для улучшения нашей игры!"
         },
         {
             "key": 27,
-            "value": "Do you want us to present you relevant advertising that fits your interests?"
+            "value": "Вы хотите, чтобы мы представили вам соответствующую рекламу, которая соответствует вашим интересам?"
         },
         {
             "key": 28,
-            "value": "Confirm"
+            "value": "Подтвердить"
         },
         {
             "key": 29,
-            "value": "Learn more"
+            "value": "Узнать больше"
         },
         {
             "key": 30,
-            "value": "Remove wrong answer"
+            "value": "Удалить неправильный ответ"
         },
         {
             "key": 31,
-            "value": "Remove two answers"
+            "value": "Удалить два ответа"
         },
         {
             "key": 32,
-            "value": "Chanse to mistake"
+            "value": "Право на ошибку"
         },
         {
             "key": 33,
-            "value": "Please, help me to complete the level!"
+            "value": "Пожалуйста, помогите мне пройти уровень!"
         },
         {
             "key": 34,
-            "value": "Help from friends"
+            "value": "Помощь от друзей"
         },
         {
             "key": 35,
-            "value": "Ask friends"
+            "value": "Спроси друзей"
         },
         {
             "key": 36,
-            "value": "Bet"
+            "value": "Ставка"
         },
         {
             "key": 37,
-            "value": "Use hints if you get stucked!"
+            "value": "Используйте подсказки, если вы застряли!"
         },
         {
             "key": 38,
-            "value": "Tap the letter to clear it. Swipe to clear all letters."
+            "value": "Нажмите на букву, чтобы очистить ее. Проведите пальцем, чтобы очистить все буквы."
         },
         {
             "key": 39,
-            "value": "Scrape the film to reveal the image!"
+            "value": "Очистите поверхность, чтобы открыть изображение!"
         },
         {
             "key": 40,
-            "value": "Tap this to make the image more clear. Requires gold!"
+            "value": "Нажмите, чтобы сделать изображение более четким. Требуется золото!"
         },
         {
             "key": 41,
-            "value": "Tap the image to make it more clear. Requires gold!"
+            "value": "Нажмите на изображение, чтобы сделать его более четким. Требуется золото!"
         },
         {
             "key": 42,
-            "value": "Tap this to start aiming. Tap in second time to shoot. Requires gold!"
+            "value": "Нажмите, чтобы начать прицеливаться. Нажмите во второй раз, чтобы стрелять. Требуется золото!"
         },
         {
             "key": 43,
-            "value": "Tap the area to start aiming. Tap in second time to shoot. Requires gold!"
+            "value": "Нажмите на область, чтобы начать прицеливаться. Нажмите во второй раз, чтобы стрелять. Требуется золото!"
         },
         {
             "key": 44,
-            "value": "Tap to get usefull info about the task!"
+            "value": "Нажмите, чтобы получить полезную информацию о задаче!"
         },
         {
             "key": 45,
-            "value": "How difficult this task is? Make a right bet!"
+            "value": "Насколько сложно это задание? Сделайте правильную ставку!"
         },
         {
             "key": 46,
-            "value": "more games"
+            "value": "Больше игр"
         },
         {
             "key": 47,
-            "value": "Retry"
+            "value": "Повторить"
+        },
+ 	    {
+            "key": 48,
+            "value": "Приватность"
         }
     ],
     "subCategories": [
@@ -229,25 +233,25 @@
             "iconName": "Name",
             "localizedTitle": "Localized Name",
             "subcategories": [
-                "Puzzle"
+                "Викторина"
             ]
         }
     ],
     "randomLetters": [
-        121,
-        98,
-        107,
-        119,
-        116,
-        114,
-        106,
-        118,
-        117,
-        99,
-        113,
-        105,
-        122,
-        120,
-        108
+        1072,
+        1073,
+        1074,
+        1075,
+        1076,
+        1077,
+        1078,
+        1079,
+        1080,
+        1082,
+        1083,
+        1084,
+        1085,
+        1086,
+        1087
     ]
 }
