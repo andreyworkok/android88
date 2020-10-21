@@ -1,7 +1,7 @@
 {
     "tasksData": [
 	{
-            "name": "photo",
+            "name": "Photo",
             "localizedName": "4 фото 1 слово",
             "gameType": 0,
             "useMixedTypes": false,
