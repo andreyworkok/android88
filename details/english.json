@@ -5012,7 +5012,9 @@
             "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 988,
-            "Levels": [
+            "Levels": 
+			
+			[
 			       {
                     "number": 1,
                     "rightAnswer": "RING",
@@ -13959,7 +13961,8 @@
                     "cost": 0
                 }
 			]
-        },{
+        },
+		{
             "name": "Puzzle",
             "localizedName": "Puzzle Emoji",
             "gameType": 0,
