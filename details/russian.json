@@ -23970,7 +23970,7 @@
 		   }
 			]},
 	 {
-             "name": "Word2",
+             "name": "Word",
             "localizedName": "Вопрос ответ",
             "gameType": 4,
             "useMixedTypes": false,
