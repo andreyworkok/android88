@@ -13965,7 +13965,7 @@
         {
 		    "name": "riddleEng",
             "localizedName": "Riddles",
-            "gameType": 0,
+            "gameType": 4,
             "useMixedTypes": false,
             "orderNumber": 1400,
             "Levels": 
