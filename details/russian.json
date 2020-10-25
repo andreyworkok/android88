@@ -8958,7 +8958,7 @@
         {
 		    "name": "riddleRus",
             "localizedName": "Загадки",
-            "gameType": 0,
+            "gameType": 4,
             "useMixedTypes": false,
             "orderNumber": 2016,
             "Levels": 
