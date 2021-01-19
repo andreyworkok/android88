@@ -35988,7 +35988,7 @@
         },
         {
             "key": 1,
-            "value": "info"
+            "value": "policy"
         },
         {
             "key": 2,
@@ -36177,10 +36177,14 @@
     ],
     "subCategories": [
         {
-            "iconName": "Name",
-            "localizedTitle": "Localized Name",
+            "iconName": "Abstract",
+            "localizedTitle": "Games",
             "subcategories": [
-                "Puzzle"
+                "Stereo",
+				"Photo",
+				"Puzzle2",
+				"riddleEng"
+				
             ]
         }
     ],
